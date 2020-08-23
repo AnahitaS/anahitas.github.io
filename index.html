@@ -1,37 +1,16 @@
----
-layout: default
-title: Home
----
+<!-- Just HEADING -->
+<p><span style="font-size: 18pt; display: block; width: 800px;"><strong>Welcome</strong></span></p>
+<!-- DIV FOR MODULE OVERVIEW -->
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{Test }}
-      </a>
-    </h1>
-
-    <span class="post-date">This is my Page</span>
-
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
+<!-- DIV FOR RESORCE -->
+<div style="background-color: #ffb6c1; padding: 5px 23px 20px 23px; margin: 10px 0;">
+<p><span style="text-decoration: underline; font-size: 14pt;"><strong>Links:</strong></span></p>
+<ol>
+<li><strong><span style="font-size: 11pt;">more links:</span></strong>
+<ol>
+<li><span style="font-size: 11pt;"><a href="https://youtu.be/_Cq_HhuOoes" target="_blank" rel="noopener">Welcome Video</a> (You must have received this video in an email a week ago):</span></li>
+<li><span style="font-size: 11pt;"><a href="https://youtu.be/GNbRLreq9-w">Virtual Desktops (VDI) Set up</a></span></li>
+</ol>
+</li>
+</ol>
 </div>
