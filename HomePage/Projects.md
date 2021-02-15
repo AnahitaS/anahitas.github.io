@@ -1,5 +1,24 @@
 Projects
 =========
+An Interactive Training Game to Enhance 3D Spatial Skills
+-------
+**Objective:** Developing and validating a novel domain-agnostic, computer-based training tool for enhancing 2D cross-section understanding of complex 3D structures. 
+
+- Understanding 2D cross-sections of 3D structures is a crucial skill in many disciplines, from geology to medical imaging (e.g., 3D image segmentation). It requires a complex set of spatial/visualization skills including mental rotation, spatial structure understanding, and viewpoint projection. Prior studies show that experts differ from novices in these skills.
+- We have developed a novel training tool for inferring 2D cross-sections of 3D structures using a participatory design methodology. We then used a between-subject study design, with 60 participants, to evaluate the training tool. Our primary effectiveness evaluation was based on pre and post spatial tests that measured both cross-section abilities and specific spatial skills: viewpoint, mental rotation, and card rotation.
+- Results showed significant performance gains on inferring 2D cross-sections for participants of the training group. Our tool improves two other spatial skills as well: mental rotation and viewpoint visualization. 
+We conclude that our training tool was effective not only in enhancing 2D cross-section understanding of complex 3D structures, but also improving mental rotation and viewpoint visualization skills. In addition, it produced a verifiable effect across those skills, utilizing only a small window of training.
+- An application of our tool is in medical/research labs to train novice segmenter in ongoing manual 3D volume segmentation tasks. It can also be adapted in other contexts, such as training children, older adults, and individuals with very low spatial skills. 
+
+**Implementation:**
+We used Unity/C# for developing the training game. We created 3D models using 3D Studio Max and ZBrush.
+
+<img src="images/UnityTool.png" alt="Using our coding scheme to quantify the data captured qualitatively in our formative studies" height="300" width="300" style="margin:0 auto;display:block;" title="Using our coding scheme to quantify the data captured qualitatively in our formative studies"> 
+
+Note: Project Links
+[Training Game Demo](https://youtu.be/ZDS2W_V0pyA ) 
+[GitHub](https://github.com/AnahitaS/3DTrainingTool) 
+
 Understanding the Manual 3D Image Segmentation Process
 -------
 I have had the opportunity to be part of an on-going NSF-funded research with collaborators at the University of North Texas and Washington University in St. Louis. This project focuses on understanding the cognitive and perceptual basis of how experts extract 3D shapes from volumetric data, (e.g., MRI or CT imaging). This process, known as “3D image segmentation” is a fundamental step in many scientific and biomedical applications such as locating tumors. 
@@ -19,12 +38,6 @@ We use this test instrument to measure individual differences in various spatial
 <img src="images/1_Typespng.png" alt="Sample Questions from 3D Spatial Ability Test" height="300" width="300" style="margin:0 auto;display:block;" title="Sample Questions from 3D Spatial Ability Test"> 
 
 Note: See [this video Tutorial](https://www.youtube.com/watch?v=S4RgqArzTI0) to get better understanding of 2D cross-section of 3D structures.
-
-Developing an Interactive Training Tool for Inferring 2D Cross-sections of 3D Structures
--------
-The ultimate objective of our research is to develop a tool-agnostic training pedagogy to improve novice segmenters’ 3D spatial skills. We are developing a working prototype of a segmentation tool that help novice segmenters throughout a segmentation task by providing comprehensive instructions and guidelines on how to work with 3D views and structures. Training pedagogy development is still in progress and it will eventually help separating learning the tool set from learning how to segment.  complete by the end of Dec 2014. Since the prior version of the TNA tool developed in phase one could no longer accommodate the new project requirements, in this phase a new Transit Network Analysis tool is developed from scratch using open source development tools and platforms. 
-
-Click here to see some of our low-fidelty design and sketches
 
 Visualizing Social Network Analysis (SNA) Metrics for Open Source Projects
 -------
