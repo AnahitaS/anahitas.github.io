@@ -9,7 +9,7 @@ Interesting analytics examples often appear in the popular press, such as the re
 
 In this project, we created "Visualroo" a client side web application developed in JavaScript used for teaching regression and statistical dependence (correlation). It connects to a [Mockaroo](https://www.mockaroo.com/) schema using an API key. We feature Mockaroo since it is cloud based, free, intuitive, customizable, and rich in data types. Furthermore, the Mockaroo API allows us to expand our real time visualization tool. Two variables from the schema can be selected and visualized. Visualroo uses [mljs](https://github.com/mljs/ml) simple linear regression to find the equation for the fitted line and visualizes the results using [plotly.js](https://github.com/plotly/plotly.js/). 
 
-![](images/visualroo/01.jpg)
+![](images/Visualroo/01.jpg)
 
 <br>
 ####**Application:**
@@ -38,7 +38,7 @@ Process
 -------
 For this project, I ensured the design & implementation process was as user-centered (focusing on students and educators) as possible. Here’s a very high-level overview of what the project process looked like.
 
-![](images/visualroo/02.jpg)
+![](images/Visualroo/02.jpg)
 
 In the below sections I will focus on the research, tool design, implementaion and evaluationtion.
 
@@ -77,8 +77,8 @@ Visualroo Design, Implementaion & Evaluation
 ####**Design**
 We designed our open-source visualization tool (Visualroo) to provide real time visualizations of Mockaroo datasets. To design the UI interface, I started by sketching low fidelity of the application. I continuously checked the design with the team and some volunteer students and faculty to make sure it has all the features that is needed. The high-fidelity prototype and also the final interface were all created using HTML and JavaScript.
 
-![](images/visualroo/03.jpg)
-![](images/visualroo/04.jpg)
+![](images/Visualroo/03.jpg)
+![](images/Visualroo/04.jpg)
 
 <br>
 ####**Implementaion**

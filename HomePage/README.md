@@ -1,4 +1,4 @@
-MDwiki
+Anahita Sanandaji Personal Website
 ======
 
-See http://www.mdwiki.info/ for more documentation and details.
+Here is the course for my Personal Website.

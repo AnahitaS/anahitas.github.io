@@ -127,11 +127,11 @@ Based on the insights and research principles, I started designing elements for 
 
 After consolidating the favorite ideas, I created a higher-fidelity prototype, implement it, and tested it in the field. Since that time, I have cycled through many more versions of design and testing, with my colleagues to finalize the implementation of the course LMS features. The current LMS is still going through redeising and adding more features as needed.
 
-![](images/Flip/08.JPG)
-![](images/Flip/09.JPG)
+![](images/Flip/08.jpg)
+![](images/Flip/09.jpg)
 
-![](images/Flip/10.JPG)
-![](images/Flip/11.JPG)
+![](images/Flip/10.jpg)
+![](images/Flip/11.jpg)
 
 **Key features** of the new design include:
 - Sections and modules implemented based on backward design with clear objectives and easy access by students.
@@ -156,5 +156,5 @@ My qualitative assessment is based on students’ feedback and course evaluation
 
 Based on survey results my students perceived the online flipped class very effective. This result is consistent with my own observation and course evaluations as well. Because of the encouraging results and positive student feedback, I will continue to use similar implementations of the online flipped class in the future.
 
-![](images/Flip/12.JPG)
-![](images/Flip/13.JPG)
+![](images/Flip/12.jpg)
+![](images/Flip/13.jpg)

@@ -16,7 +16,7 @@ Sample Work and Projects
 </p>
 
 <p><a href="visualroo.md">
-         <img src="images/visualroo/00.jpg" alt="visualroo" width="200" height="50" align="left" title="Visualroo"> </a>
+         <img src="images/Visualroo/00.jpg" alt="visualroo" width="200" height="50" align="left" title="Visualroo"> </a>
 **Visualroo: A Web Application to Retrieve and Visualize Data:** In this project, we created "Visualroo" a client side web application developed in JavaScript used for teaching regression and statistical dependence (correlation). [Read More…](visualroo.md)
 </p>
 
