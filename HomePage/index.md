@@ -1,8 +1,11 @@
 Anahita Sanandaji
 =========
-<p><img src="images/ASanandaji2.jpg" alt="Anahita Sanandaji" width="200" height="200" align="left" title="Anahita Sanandaji"> 
-I am an Assistant Professor of Analytics and Information Systems at Ohio University. I received a PhD degree in computer science from Oregon State University in 2018. My research interests are Human Computer Interaction (HCI), data visualization and analytics, social computing, and User Experience (UX) research and design. 
-As a researcher in the field of HCI, I focus on designing innovative user interfaces and technologies that improve human interaction with computers. My research methodology is a mix of theory, Human-Centered Design (HCD), implementation, and evaluation. 
-I enjoy studying and analyzing how people interact with computing technologies and social spaces. 
-I also have many years of teaching experience in both online and on-campus undergraduate and graduate level courses including statistics, software engineering, user experience design, programming, and information systems. In 2014, my service was recognized with Vice Provost’s Award for Excellence in Innovation, Online–teaching–Credit, EECS degree in computer science at Oregon State University.
+
+<p><img src="images/0_myProfile.png" alt="Anahita Sanandaji" width="200" height="200" align="left" title="Anahita Sanandaji">
+Self-motivated, goal driven User Experience (UX) Researcher with excellent analytical, organizational, and communication skills. 
+
+I have a PhD in Computer Science, Human-Computer Interaction (HCI) from Oregon State University and have 8+ years of experience with qualitative and quantitative UX research methods including interviews, observations, think-aloud, usability testing, heuristic evaluation, survey design and implementation, sampling, data analysis, and statistics. Currently, I am a UX researcher & an Assistant Professor of Analytics and Information Systems (AIS) at Ohio University.</p>
+
+**[My GitHub](https://github.com/AnahitaS)**
+
 
