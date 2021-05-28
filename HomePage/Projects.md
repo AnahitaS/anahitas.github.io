@@ -22,5 +22,5 @@ Sample Work and Projects
 
 <p><a href="otherProjects.md">
          <img src="images/LineRuner.jpg" alt="other" width="200" height="50" align="left" title="other"> </a>
-**Check more Projects:** I have a few more porjects to share.[Read More…](otherProjects.md)
+**Check more Projects:** I have a few more porjects to share. [Read More…](otherProjects.md)
 </p>
