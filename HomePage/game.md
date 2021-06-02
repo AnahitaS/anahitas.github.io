@@ -25,8 +25,8 @@ This game is goal oriented. I designed the actual interface of the training game
 2. Higher-fidelity prototype (using balsamiq)
 3. User interface implementation in Unity (writing C# scripts)
 
-![](images/06_Low.png)
-![](images/06_Low2.png)
+![](images/06_Low.PNG)
+![](images/06_Low2.PNG)
 ![](images/06_High.png)
 <br>
 
@@ -83,7 +83,7 @@ This game has a 3D, interactive user interface (UI). I designed the actual inter
 
 For each design phase I asked participants to perform one or more of the tasks and provide me with their feedback. I successfully elicited major suggestions for usability refinements, such as the appearance of the main window, visibility and consistency of buttons, more representative buttons to support affordance (e.g., curved arrows for rotation), more visible feedback and help options, and removing interface elements that were not used in a specific task.
 
-![](images/06_Low.png)
+![](images/06_Low.PNG)
 ![](images/06_High.png)
 ![](images/06_High2.png)
 
