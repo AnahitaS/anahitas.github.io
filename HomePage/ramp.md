@@ -1,35 +1,52 @@
-Transit Network Analysis Software Tool Project
+Intelligent Model for Traffic Flow Prediction
 =========
 
-Assessing the current "state of health" of individual transit networks is a fundamental part of studies aimed at planning changes and/or upgrades to the transportation network serving a region. To be able to effect changes that benefit both the individual transit networks as well as the larger transportation system, organizations need to develop meaningful strategies guided by specific performance metrics. A fundamental requirement for the development of these performance metrics is the availability of accurate data regarding transit networks.
-Prior to 2005, transit data was not readily available. This situation complicated the assessment of single transit networks, let alone performing a state-wide or region-wide study. The advent of the General Transit Feed Specification [GTFS](https://developers.google.com/transit/gtfs) changed this constrained landscape and motivated transit operators to release their schedules and route information to third party developers.
+In this project, I used machine learning techniques to develop a novel real time prediction model for ramp metering. I designed and developed a smart algorithm that utilizes historical trafﬁc data, as well as trafﬁc measures such as speed, current trafﬁc volume, and breakdown capacity to control ramp signal based on the current and predicted traffic flow. I also was part of the team to create a simulation portal for the project based on UX concpets.
 
-[Oregon Department of Transportation](http://www.oregon.gov/ODOT "Oregon Department of Transportation") (ODOT) [Public Transit Division](http://www.oregon.gov/ODOT/PT) (PTD) funded this research project to develop an open source Transit Network Analysis tool.
- 
-<img src="images/odot.jpg" alt="Oregon Department of Transportation" height="150" width="200" style="margin:0 auto;display:block;" title="Oregon Department of Transportation"> 
+![](images/ramp/01.jpg)
+![](images/ramp/02.jpg)
+![](images/ramp/03.jpg)
 
-Phase 1
+JavaScript Traffic Simulator
 -------
-First phase of the project was titled 'Proof of Concept: GTFS Data as a Basis for Optimization of Oregon's regional and statewide Transit Networks', started on Aug 2013 and finished on Dec 2013. In this phase, a review was conducted on currently available software packages that perform some form of transit network analysis. These packages varied largely in terms of the software platforms they are built upon as well as the analysis capabilities they offer. A total of 43 software packages in different areas related to the analysis of transit networks were identified and analyzed based on the following criteria:
+This JavaScript traffic simulator is based on [movsim](https://github.com/movsim/traffic-simulation-de) open source JavaScript traffic simulator by [Arne Kesting](https://www.akesting.de/) and [Martin Treiber](https://mtreiber.de/).
 
- * Be capable of collecting and storing GTFS data. 
- * Be capable of keeping GTFS data up-to-date.
- * Allow the visualization of GTFS data on a map. Desirable features of this capability may include: displaying stops, routes, transit agency information and other information provided on a map; allowing the user to select what feed/feeds to display; and providing a web-based interface.
- * Be capable of generating different kinds of reports based on queries from GTFS data.
- * Be developed using open source tools.
-
-The conclusion reached from this analysis was that only OpenTripPlanner met most of the criteria discussed before and provided the best balance between already available features and required development work.
-
-<img src="images/oldtna.png" alt="Transit Network Analysis Tool - the old version" height="100" width="400" style="margin:0 auto;display:block;" title="Transit Network Analysis Tool - the old version"> 
-
-The final product, referred to as the Transit Network Analysis (TNA) software tool, incorporates publicly available transit data and census data as its main inputs and can be used to visualize, analyze and report on the Oregon transit network. 
-
-Note: The first phase final project report can be accessed on [ODOT](http://www.oregon.gov/ODOT/TD/TP_RES/docs/ProjectWorkPlans/SPR752WP.pdf) page.
-
-phase 2
+Study
 -------
-The second phase of the project is titled "An Open Source Tool For The Visualization, Analysis And Reporting Of Regional And Statewide Transit Networks", started on Jan 2014 and will complete by the end of Dec 2014. Since the prior version of the TNA tool developed in phase one could no longer accommodate the new project requirements, in this phase a new Transit Network Analysis tool is developed from scratch using open source development tools and platforms. 
+We proposed [A Novel Ramp Metering Approach Based on Machine Learning and Historical Data](https://www.mdpi.com/2504-4990/2/4/21/xml) and published it in [Machine Learning and Knowledge Extraction](https://www.mdpi.com/journal/make) journal. The proposed ramp metering algorithm uses linear regression and real traffic data from a ramp in I-205 in Oregon State to predict the traffic flow during different hours of the day. We used K-means to determine traffic phase and type to set the ramp signal green phase.
+We conducted a simulation study using this JavaScript Traffic Simulator to compare our proposed method with the traffic responsive ramp control method [ALINEA](http://onlinepubs.trb.org/Onlinepubs/trr/1991/1320/1320-008.pdf).
 
-<iframe src="slideshow.html" width="810" height="440" frameborder="0" scrolling="no"  style="margin:0 auto;display:block;"></iframe> 
+Contributions
+-------
+Following are the modifications and contributions we made in the traffic simulator
 
-Note: The project Wiki page is accessible at: http://tnasoftware.osu3.com/TNAtoolAPI-Webapp/wiki
+- The ramp and mainline traffic flows are read from a JSON input file located in the data folder
+- ALINEA and proposed ramp metering algorithms are implemented in the Simulator
+- Time setep (simulation time increments), start, and end time are added to the simulation
+- [mljs](https://github.com/mljs/ml) is used for training and executing the proposed metering algorithm
+- Metrics including traffic flow, downstream speed, green phase duration, ramp queue length, downstream occupancy, and ramp meter signal status are recorded during the Simulation
+- All recorded metrics are visualized in interactive plots generated with [plotly.js](https://github.com/plotly/plotly.js/)
+- Recorded metrics can be downloaded in CSV files for further analysis
+
+![](images/ramp/04.jpg)
+![](images/ramp/05.jpg)
+![](images/ramp/06.jpg)
+
+Simulation Scenarios
+-------
+Three scenarios of no control, ALINEA ramp metering, and proposed ramp metering are provided below. Running the simulation with animation on is time consuming, so all three scenarios are limited to one hour (7:00-8:00AM) intervals with speed set to 150 frames per second. Running each scenario on a fast web browser (Google Chrome) and computer takes about 20 seconds.
+
+* [No Ramp Control Scenario](https://saeedt.github.io/JSTrafficSimulator/index)
+* [ALINEA Ramp Metering](https://saeedt.github.io/JSTrafficSimulator/index_alinea)
+* [The Proposed Ramp Metering Method](https://saeedt.github.io/JSTrafficSimulator/index_proposed)
+
+Demo Links
+-------
+Click on the scenario you would like to try!
+
+* [No Ramp Control Scenario](https://saeedt.github.io/JSTrafficSimulator/index)
+* [ALINEA Ramp Metering](https://saeedt.github.io/JSTrafficSimulator/index_alinea)
+* [The Proposed Ramp Metering Method](https://saeedt.github.io/JSTrafficSimulator/index_proposed)
+
+### More Information
+For more information about the study and results check our open access publication [A Novel Ramp Metering Approach Based on Machine Learning and Historical Data](https://www.mdpi.com/2504-4990/2/4/21/xml).
