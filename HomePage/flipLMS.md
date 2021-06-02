@@ -134,6 +134,7 @@ After consolidating the favorite ideas, I created a higher-fidelity prototype, i
 ![](images/Flip/11.jpg)
 
 **Key features** of the new design include:
+
 - Sections and modules implemented based on backward design with clear objectives and easy access by students.
 - HW, video lectures and assignments are all organized based on backward design and overall clear structure of the class.
 - Video lecture being embedded in the LMS along with help videos.
