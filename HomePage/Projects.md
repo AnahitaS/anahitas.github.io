@@ -39,7 +39,7 @@ Intelligent Ramp Meter
 -------
 <p><a href="ramp.md">
          <img src="images/ramp/01.jpg" alt="ramp" width="200" height="50" align="left" title="Ramp and Machine Learning"> </a>
-**Intelligent Model for Traffic Flow Prediction** in this project, I used machine learning techniques to develop a novel real time prediction model for ramp metering. I also was part of the team to create a simulation portal for the project based on UX concepts [Read More…](ramp.md)
+**Intelligent Model for Traffic Flow Prediction:** in this project, I used machine learning techniques to develop a novel real time prediction model for ramp metering. I also was part of the team to create a simulation portal for the project based on UX concepts. [Read More…](ramp.md)
 </p>
 
 More Projects
