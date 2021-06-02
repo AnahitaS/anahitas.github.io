@@ -10,6 +10,11 @@ Sample Work and Projects
 **An Interactive Training Game to Enhance 3D Spatial Skills:** In this project I develop and validate a novel domain-agnostic, computer-based training game for enhancing 2D cross-section understanding of complex 3D structures. [Read More…](game.md)
 </p>
 
+<p><a href="game.md">
+         <img src="images/sg/05.jpg" alt="SG" width="200" height="50" align="left" title="SystemGroup Website"> </a>
+**Building a Better systemgroup.net Portal Through UX Practices** In this project I led the UX process and team for converting SystemGroup Company (largest software engineering company in my Home Country) main portal website into a modern, responsive, and accessible platform.  [Read More…](sg.md)
+</p>
+
 <p><a href="flipLMS.md">
          <img src="images/Flip/00.jpg" alt="Flipped Class" width="200" height="50" align="left" title="Flipped Class"> </a>
 <br><br>**Online Flipped Classroom and Learning Management System (LMS) Design During the COVID-19 Pandemic:** We design and implement a novel pedagogy for creating an active learning experience by extending learning beyond the face-to-face classroom. [Read More…](flipLMS.md)

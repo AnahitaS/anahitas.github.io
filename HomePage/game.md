@@ -25,9 +25,9 @@ This game is goal oriented. I designed the actual interface of the training game
 2. Higher-fidelity prototype (using balsamiq)
 3. User interface implementation in Unity (writing C# scripts)
 
-![](images/06_Low.PNG)
-![](images/06_Low2.PNG)
-![](images/06_High.PNG)
+![](images/06_Low.png)
+![](images/06_Low2.png)
+![](images/06_High.png)
 <br>
 
 ####**Evaluation:**
@@ -60,8 +60,8 @@ Training Game Task Design
 -------
 This game consists of a sequence of tasks with increasing levels of spatial difficulty. Each task requires the participant to move and/or orient the cross-section plane in order to achieve a specific goal, which is described verbally (e.g., position the plane so it creates a cross-section across the thinnest part of the object). Participants can interactively move the plane, change the viewpoint, show the current cross-section, request help, and receive feedback on the task.
 
-![](images/07_Task1.PNG)
-![](images/07_Task2.PNG)
+![](images/07_Task1.png)
+![](images/07_Task2.png)
 
 - I designed the game training tasks to be goal-oriented and focused on the skills needed to understand the relationship between cross-section creating and viewpoint direction, slicing plane orientation, and 3D structure.
 - Designing the tasks was an iterative process and I developed many design alternatives, and in the end selected the most concise set that covered the desired skills.
