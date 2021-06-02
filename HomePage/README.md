@@ -1,4 +1,4 @@
 Anahita Sanandaji Personal Website
 ======
 
-Here is the course for my Personal Website.
+Here is the source for my Personal Website.
