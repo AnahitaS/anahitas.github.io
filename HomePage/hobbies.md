@@ -4,7 +4,6 @@ HOBBIES
 * Here are a few samples of my digital paintings.
 
 <img src="images/011.jpg" alt="Sample Painting 1" height="200" width="200" style="margin:0 auto;display:block;" title="Sample Painting 1">
-<img src="images/2.bmp" alt="Sample Painting 2" height="200" width="200" style="margin:0 auto;display:block;" title="Sample Painting 2">
 <img src="images/3.bmp" alt="Sample Painting 3" height="200" width="200" style="margin:0 auto;display:block;" title="Sample Painting 3">
 <img src="images/4.bmp" alt="Sample Painting 4" height="200" width="200" style="margin:0 auto;display:block;" title="Sample Painting 4">
 
