@@ -18,7 +18,7 @@ SystemGroup Portal Redesign
 -------
 <p><a href="sg.md">
          <img src="images/SG/05.jpg" alt="SG" width="200" height="50" align="left" title="SystemGroup Website"> </a>
-**Building a Better SystemGroup Portal Through UX Practices:** In this project I led the UX process and team for converting SystemGroup Company (largest software engineering company in my Home Country) main portal website into a modern, responsive, and accessible platform.  [Read More…](sg.md)
+**Building a Better SystemGroup Portal Through UX Practices:** In this project, I led the UX process and team for converting SystemGroup Company (largest software engineering company in my Home Country) main portal into a modern, responsive, and accessible platform.  [Read More…](sg.md)
 </p>
 
 Online Flipped Classroom
