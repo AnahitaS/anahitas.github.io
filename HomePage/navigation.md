@@ -9,7 +9,7 @@
   * [Intelligent Ramp Meter](ramp.md)
   * [Other Projects](otherProjects.md)
   
-[Publication](publication.md)
+[Publications](publication.md)
 [Teaching](teaching.md)
 [Honors & Awards](Honors.md)
 [Hobbies](hobbies.md)
