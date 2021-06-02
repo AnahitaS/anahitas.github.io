@@ -3,7 +3,7 @@ Other Projects
 
 User Experience and Market Research at Ohio University 
 -------
-### ** This is an on going project** 
+**Note: This is an on going project.**
 
 ** My Role**:  I’m responsible for user experience research lead, market research/analysis, and people analytics for the [OU online MBA program](https://onlinemasters.ohio.edu/college-of-business/masters-business-administration/), one of the top OMBA programs in the nation. 
 
@@ -25,7 +25,8 @@ User Experience and Market Research at Ohio University
 
 Modeling Online Advertising Impact on Small Businesses
 -------
-### ** This is an on going project** 
+**Note: This is an on going project.**
+
 The main objective of this research is to gain an in-depth understanding of (1) how small businesses exploit online advertising during the COVID-19 outbreak, (2) how the customers react to online advertising strategies utilized by small businesses, and (3) how online advertising is expected to affect the resilience, recovery, and growth of small businesses during the COVID-19 outbreak. The findings from this research are expected to aid small businesses to develop online advertising strategies to improve their resilience and recover from the disruptions imposed by the pandemic. 
 
 My proposed methodology consists of the two main following phases:

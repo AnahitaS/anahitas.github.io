@@ -11,10 +11,10 @@ Sample Work and Projects
 -------
 <p><a href="game.md">
          <img src="images/07_Catcus_O.gif" alt="Train Game" width="200" height="50" align="left" title="3D Training Game"> </a>
-**An Interactive Training Game to Enhance 3D Spatial Skills:** In this project I develop and validate a novel domain-agnostic, computer-based training game for enhancing 2D cross-section understanding of complex 3D structures. [Read More…](game.md)
+**An Interactive Training Game to Enhance 3D Spatial Skills:** In this project, I develop and validate a novel domain-agnostic, computer-based training game for enhancing 2D cross-section understanding of complex 3D structures. [Read More…](game.md)
 </p>
 
-SystemGroup Website
+SystemGroup Portal Redesign
 -------
 <p><a href="sg.md">
          <img src="images/SG/05.jpg" alt="SG" width="200" height="50" align="left" title="SystemGroup Website"> </a>

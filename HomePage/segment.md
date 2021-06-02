@@ -13,7 +13,7 @@ While there are different automatic tools/algorithms for segmentation, **manual 
 
 
 
-**So the question is how we can improve this important process?**.  Existing tools do not take into account: Low-level perception and cognition tasks, and segmenters’ mental models. In this work, as a UX researcher I was responsible for investigating 3D volume segmentation as a human-computer interaction/ User Experience paradigm. My main goal was to remove segmentation as a bottleneck to discovery and make the whole process more efﬁcient, accurate and repeatable through developing better tools to be used by novice segmenters. 
+**The question is how we can improve this important process?** Existing tools do not take into account: Low-level perception and cognition tasks, and segmenters’ mental models. In this work, as a UX researcher I was responsible for investigating 3D volume segmentation as a human-computer interaction/ User Experience paradigm. My main goal was to remove segmentation as a bottleneck to discovery and make the whole process more efﬁcient, accurate and repeatable through developing better tools to be used by novice segmenters. 
 
 ![](images/3D/06.jpg)
 ![](images/3D/05.jpg)
@@ -28,12 +28,13 @@ The insights, guidelines, and tools that we have developed can be used in differ
 ![](images/3D/09.jpg)
 ![](images/3D/07.gif)
 
+<br>
 Team and My Role
 -------
 <p><img src="images/3D/04.jpg" alt="Team" width="300" height="300" title="Team">
 This has been a collaborative and comprehensive project along with my colleagues. A team of more than 30 undergraduate, graduate students, professors, experts, radiologists and biologists from different organization and universities were involved in this project. I was the Lead UX researcher of the team, managing all members, conducting the studies, analyzing data and sharing the insights with the team. I was also part of the segmentation tool team and heavily worked on the design of the tool, and was involved in actually implementing the tool by writing the code (mostly in C++). My work was supported by NSF awards IIS 1302142 and IIS 1302248.</p>
 
-
+<br>
 ##Resources
 **Note: Check the project on [VolumeViewer Page.](https://volumeviewer.cse.wustl.edu/VolumeViewer/Home.html)**
 VolumeViewer is an interactive tool for constructing surfaces from volume data, and has been developed based on the insights we obtained from this work.
@@ -87,6 +88,7 @@ In this phase I used the data (qualitative and quantitive) from Phase 1 to ident
 
 ![](images/3D/13.jpg)
 ![](images/3D/14.jpg)
+
 <br>
 ####**Use of Eye tracking and analysis eye gaze data:** 
 This was very challenging particularly because the eye gaze data needed to be preprocessed. I converted raw eye-gaze data files to overlays and heatmaps and used Heatmap/gaze overlays to determine segmenters’ gaze location and mapped them to data Transcriptions.
