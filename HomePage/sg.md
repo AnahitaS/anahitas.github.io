@@ -1,11 +1,11 @@
-Building a Better systemgroup.net Portal Through UX Practices
+Building a Better System Group Portal Through UX Practices
 =========
 ##Project Summery
 <br>
 ####**Context:** 
-- [SystemGroup Company](https://www.systemgroup.net/) (largest software engineering company in my Home Country) wanted to convert its main portal website into a modern, responsive, and accessible platform with better conversion rate, better branding, and better marketing opportunities. The website was needed to support two languages: English and Farsi.
+- [System Group Company](https://www.systemgroup.net/) (largest software engineering company in my Home Country) wanted to convert its main portal website into a modern, responsive, and accessible platform with better conversion rate, better branding, and better marketing opportunities. The website was needed to support two languages: English and Farsi.
 
-- At the time, before I joined Systemgroup, there was no central UX team at the company. I managed the whole UX process.
+- At the time, before I joined System Group, there was no central UX team at the company. I managed the whole UX process.
 
 - **Prior Website:** The prior site was functional, but was not responsive or accessible, did not represent the brand, and was only in Farsi.
 
@@ -14,11 +14,11 @@ Building a Better systemgroup.net Portal Through UX Practices
 - Modernize the user experience of the website while supporting two languages: English and Farsi.
 - Make the site and navigation responsive and improve info discovery.
 - Improve conversion rate, and overall customer experience.
-- **My aim for the UX team:** Develop Systemgroup’s UX practice & establish User experience research culture in the organization.
+- **My aim for the UX team:** Develop System Group’s UX practice & establish User experience research culture in the organization.
 
 <br>
 ####**My Role**
-**UX Researcher:** I was responsible for Systemgroup’s overall online UX experience. I established the team for this project, ran the project based on UX research best practices, collaborated with the design, development, support and manger teams, and led all stakeholder reviews.
+**UX Researcher:** I was responsible for System Group’s overall online UX experience. I established the team for this project, ran the project based on UX research best practices, collaborated with the design, development, support and manger teams, and led all stakeholder reviews.
 
 Process
 -------
