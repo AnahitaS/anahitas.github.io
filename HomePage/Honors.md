@@ -1,7 +1,10 @@
 Honors & Awards
 =========
+* Recipient of the Intellectual Contributions Continuous Improvement Team (ICCIT) seed research award at Ohio University, College of Business, March 2021.
 
 * Tapia scholarship recipient to attend Tapia 2017 Conference, Atlanta, GA.
+
+* Google travel grant recipient to attend WE17 conference (world’s largest conference for women in engineering), Austin, TX, Oct 2017.
 
 * Anita Borg scholarship recipient to attend Grace Hopper Celebration of Women in Computing (GHC), 2016, Houston, Texas.
 

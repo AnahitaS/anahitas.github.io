@@ -2,7 +2,7 @@ Publications
 ============
 JOURNAL PUBLICATIONS
 ---------	
-* **Anahita Sanandaji**, Cindy Grimm, Ruth West, and Christopher Sanchez, “Developing and Validating an Interactive Training Tool for Complex Visual-Spatial Expertise for Inferring 2D Cross-Sections of 3D Structures”, Journal of Information Technology Case and Application Research. Link to paper:  https://doi.org/10.1177/00187208211018110
+* **Anahita Sanandaji**, Cindy Grimm, Ruth West, and Christopher Sanchez, “Developing and Validating an Interactive Training Tool for Complex Visual-Spatial Expertise for Inferring 2D Cross-Sections of 3D Structures”, Human Factors, 2021. Link to paper:  https://doi.org/10.1177/00187208211018110
 * **Anahita Sanandaji**, and Saeed Ghanbartehrani, “An evaluation of online flipped instruction methods during the COVID-19 pandemic”, Journal of Information Technology Case and Application Research, 23(1), 46-67, 2021. Link to paper:  https://doi.org/10.1080/15228053.2021.1901360
 * Saeed Ghanbartehani, **Anahita Sanandaji**, Zahra Mokhtari, and Kimia Tajik, “A Novel Ramp Metering Approach Based on Machine Learning and Historical Data”, Machine Learning and Knowledge Extraction Journal (2020). Link to paper: https://doi.org/10.3390/make2040021
 * Kathryn Hays, Ruth West, **Anahita Sanandaji**, Cindy Grimm, Molly Beyer, Luke Hillard, Megan Kajihara, Brandon Lane, Max Parola, “Expertise in 3D Volume Segmentation: Adapting Dreyfuss Model of Skill Acquisition”, submitted to Bulletin of Science, Technology Society.
